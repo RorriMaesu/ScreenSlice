@@ -125,4 +125,4 @@ If you find ScreenSlice useful, please consider giving it a ⭐ star on GitHub! 
 🛠️ Found a bug? Have a suggestion? Open an issue on GitHub:
 👉 Report an Issue
 
-<h3 align="center">🎨 Experience precision. Experience elegance. Experience ScreenSlice. ✂️</h3> ```
+<h3 align="center">🎨 Experience precision. Experience elegance. Experience ScreenSlice. ✂️</h3>
