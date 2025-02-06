@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="ScreenSlice Logo" width="250">
+  <img src="logo.jpeg" alt="ScreenSlice Logo" width="250">
 </p>
 
 <h1 align="center">🖼️ ✂️ ScreenSlice</h1>
